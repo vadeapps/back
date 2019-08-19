@@ -1,6 +1,44 @@
-{"apps":[
-  {"nome":"Imagens de Maloka","url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdemalokaimagens","imagem":"https://lh3.googleusercontent.com/ZjnaU9F9AV3SuX9T8OIxDXWvz09glT4Cx6c6catVKhDx8NrlB6x3xvbcvS1HJeemB0A=s180-rw"},
-  {"nome":"Frases para Fotos com Namorado","url":"https://play.google.com/store/apps/details?id=com.vadeapps.legendaparafoto.frasesparafotoscomnamorado","imagem":"https://lh3.googleusercontent.com/nKhuHqLRAAVtC3oGrdz6nVwX2EZMGdNXo6WDcn1pF_Nb0lyoW27IH3VXgaCgAwPSDg=s180-rw"},
-  {"nome":"Criador de Frases de Maloka","url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesparastatus.criadorfrasesdemaloka","imagem":"https://lh3.googleusercontent.com/uQN0gl5puDR4il1SIulujnV6gxMaaffMx26BAnkKQpEKCnymPArySiy4c74XwHghTlkv=s180-rw"}
-]
+{  
+    "apps":[ 
+        {  
+            "nome":"Frases para Fotos com Namorado",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.legendaparafoto.frasesparafotoscomnamorado",
+            "imagem":"https://lh3.googleusercontent.com/nKhuHqLRAAVtC3oGrdz6nVwX2EZMGdNXo6WDcn1pF_Nb0lyoW27IH3VXgaCgAwPSDg=s180-rw"
+        },	
+        {  
+            "nome":"Imagens de Maloka",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdemalokaimagens",
+            "imagem":"https://lh3.googleusercontent.com/ZjnaU9F9AV3SuX9T8OIxDXWvz09glT4Cx6c6catVKhDx8NrlB6x3xvbcvS1HJeemB0A=s180-rw"
+        },
+        {  
+            "nome":"Criador de Frases de Maloka",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesparastatus.criadorfrasesdemaloka",
+            "imagem":"https://lh3.googleusercontent.com/uQN0gl5puDR4il1SIulujnV6gxMaaffMx26BAnkKQpEKCnymPArySiy4c74XwHghTlkv=s180-rw"
+        },
+        {  
+            "nome":"Frases de Indiretas",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdeindiretas",
+            "imagem":"https://lh3.googleusercontent.com/6X-qsCd6_-dgro0V88An-cuVGpvZlhQ-Q4xYp-0pm7Q4sOVkRbysIuqidjqitRafme0=s180-rw"
+        },
+        {  
+            "nome":"Frases de Indiretas para Ex",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.indiretasparaex",
+            "imagem":"https://lh3.googleusercontent.com/Ot6SqQDb4kUtE0VAtwOwRWIiFCIrX1FAvZYZJ1HncXlo9_8QqB5Les3Q7S3OaXGBIBqT=s180-rw"
+        },
+        {  
+            "nome":"Legendas para Fotos Sozinha",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.legendaparafotosozinha",
+            "imagem":"https://lh3.googleusercontent.com/rfok-cU67IRFDsCMKz-HE-g9pDpcKrAThf1Zz80oD7VKesN8qAhBCiDHJHplyBj-Jw=s180-rw"
+        },
+        {  
+            "nome":"Mensagem de Aniversário",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.mensagemdeaniversario.felizaniversario",
+            "imagem":"https://lh3.googleusercontent.com/HkWqS4GdZgPTYz6qSt5FRMX5Pl-Gu9w2vIUA7NI6nz4V2T3ycavsNtxfsmO90A8Vm6k5=s180-rw"
+        },
+        {  
+            "nome":"Frases de Motivação",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdemotivacao",
+            "imagem":"https://lh3.googleusercontent.com/FKVvarwkSyKHvnaNsiNIvfjhJevmr9hywVgONmSJ3TSW89gd3ZDFu_FnAZpn_S71Ig=s180-rw"
+        }
+    ]
 }
