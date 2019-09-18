@@ -1,6 +1,11 @@
 {  
     "apps":[ 
         
+        {  
+            "nome":"Frases de Indiretas",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdeindiretas",
+            "imagem":"https://lh3.googleusercontent.com/6X-qsCd6_-dgro0V88An-cuVGpvZlhQ-Q4xYp-0pm7Q4sOVkRbysIuqidjqitRafme0=s180-rw"
+        },
 		{  
             "nome":"Frases de um Favelado",
             "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdemaloka.lite",
@@ -20,11 +25,6 @@
             "nome":"Frases para Fotos com Namorado",
             "url":"https://play.google.com/store/apps/details?id=com.vadeapps.legendaparafoto.frasesparafotoscomnamorado",
             "imagem":"https://lh3.googleusercontent.com/nKhuHqLRAAVtC3oGrdz6nVwX2EZMGdNXo6WDcn1pF_Nb0lyoW27IH3VXgaCgAwPSDg=s180-rw"
-        },
-        {  
-            "nome":"Frases de Indiretas",
-            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdeindiretas",
-            "imagem":"https://lh3.googleusercontent.com/6X-qsCd6_-dgro0V88An-cuVGpvZlhQ-Q4xYp-0pm7Q4sOVkRbysIuqidjqitRafme0=s180-rw"
         },
         {  
             "nome":"Frases de Indiretas para Ex",
