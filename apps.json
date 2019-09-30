@@ -2,6 +2,11 @@
     "apps":[ 
         
         {  
+            "nome":"	Frases Sextou para Status",
+            "url":"https://play.google.com/store/apps/details?id=com.vadeapps.sextou.frasessextou",
+            "imagem":"https://lh3.googleusercontent.com/eSr5jS7OEu_ZHL3bRiQpVj6ax2H5dr_b4tChlhi4TXd_BGxJzdQWoep6XZG6HX79rg=s180-rw"
+        },
+		{  
             "nome":"Frases de Indiretas",
             "url":"https://play.google.com/store/apps/details?id=com.vadeapps.frasesdeindiretas",
             "imagem":"https://lh3.googleusercontent.com/6X-qsCd6_-dgro0V88An-cuVGpvZlhQ-Q4xYp-0pm7Q4sOVkRbysIuqidjqitRafme0=s180-rw"
